@@ -1,2 +1,2 @@
 # amazon_clone_theme
-amazon clone website ui created using bootstrap
+Amazon clone theme created using BootStrap 4 Framework for MERN Stack Project.
